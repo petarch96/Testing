@@ -1,4 +1,8 @@
 Adding my first line of text
 Removing second line of blobber
+<<<<<<< HEAD
 third
 forth
+=======
+third line
+>>>>>>> UpdateText
